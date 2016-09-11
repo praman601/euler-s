@@ -3,6 +3,7 @@ class FibEvenSum
 {
 public static void main(String args[])
 {
+	/this is comment
 int sum=0,i,j,a;
 Scanner sc=new Scanner(System.in);
 System.out.println("enter the max value");
